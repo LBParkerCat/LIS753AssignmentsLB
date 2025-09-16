@@ -1,14 +1,14 @@
 h1 {
  color: darkgreen;
  font-family: Calibri;
- font-size: 40px;
+ font-size: 50px;
  font-style: italic;
  width: 75%;
  text-align: center;
  }
 header p {background: white;
          }
- img {
+img {
  width: 75%;
  height: auto;
  border: 3px solid black;
