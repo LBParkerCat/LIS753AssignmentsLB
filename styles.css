@@ -8,6 +8,10 @@ h1 {
  }
 header p {background: white;
          }
+figure figcaption {
+  font-family: Calibri;
+  padding: 10px
+ }
 img {
  width: 75%;
  height: auto;
