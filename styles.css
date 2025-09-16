@@ -13,7 +13,7 @@ figure figcaption {
   color: brightblue;
   padding: 10px
  }
-img {
+figure img {
  width: 75%;
  height: auto;
  border: 3px solid black;
