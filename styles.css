@@ -6,6 +6,8 @@ h1 {
  width: 75%;
  text-align: center;
  }
+header p {background: white;
+         }
  img {
  width: 75%;
  height: auto;
