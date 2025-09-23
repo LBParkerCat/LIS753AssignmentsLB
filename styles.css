@@ -6,22 +6,26 @@ h1 {
  width: 75%;
  text-align: center;
  }
+
 header p {
  background: white;
- font-size: 15px;
+ font-size: 10px;
  text-align: right;
-         }
+}
+
 figcaption {
   font-family: Calibri;
   color: darkgreen;
   padding: 10px
  }
+
 img {
  width: 75%;
  height: auto;
  border: 3px solid black;
  padding: 10px;
  }
+
 p {
   font-family: Calibri;
   font-size: 20px;
@@ -29,6 +33,7 @@ p {
   background: lightyellow;
   margin-top: 20px;
 }
+
 p img {
   float: right;
   max-width: 30%;
@@ -36,4 +41,17 @@ p img {
   margin-left: 30px;
   border: 3px solid black;
   padding: 5px;
+}
+
+a {
+ font-weight: bold;
+ color: purple;
+}
+
+ul li a {
+ text-decoration: none;
+}
+
+ul li a:hover {
+ text-decoration: underline;
 }
