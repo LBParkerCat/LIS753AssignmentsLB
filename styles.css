@@ -6,7 +6,10 @@ h1 {
  width: 75%;
  text-align: center;
  }
-header p {background: white;
+header p {
+ background: white;
+ font-size: 15px;
+ text-align: right;
          }
 figcaption {
   font-family: Calibri;
