@@ -44,6 +44,8 @@ p img {
 }
 
 nav ul {
+ display: flex;
+ justify-content: flex-start;
  background-color: lightyellow;
  list-style: none;
  padding: 0;
