@@ -44,19 +44,21 @@ p img {
 }
 
 nav ul {
- width: 700px;
+ width: 900px;
  display: flex;
  justify-content: flex-start;
  gap: 60px;
  background-color: lightyellow;
  list-style: none;
  padding: 0;
- border: 1px solid green;
+ /*border: 1px solid green;*/
+ border-top: 1px solid green;
+ border-bottom: 1px solid green;
  margin-left: 35px;
 }
 
 nav ul li {
- border-bottom: 1px solid green;
+ border-bottom: 1px solid green; /*I like how this looks so keeping it*/
  padding: 5px;
 }
 
