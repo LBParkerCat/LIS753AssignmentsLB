@@ -45,21 +45,18 @@ p img {
 
 nav ul li a {
  font-weight: bold;
- /* color: purple; */
+ color: purple;
  text-decoration: none;
  font-family: Calibri;
+}
+
+nav ul {
  background: lightyellow;
  list-style: none;
  padding: 0;
  width: 200px;
  border: 1px solid green;
 }
-
-/*
-ul li a {
- text-decoration: none;
-}
-*/
 
 ul li a:hover {
  text-decoration: underline;
