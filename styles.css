@@ -49,6 +49,16 @@ nav ul {
  padding: 0;
  width: 200px;
  border: 1px solid green;
+ margin-left: 30px;
+}
+
+nav ul li {
+ border-bottom: 1px solid green;
+ padding: 5px;
+}
+
+nav ul li:last-child {
+ border-bottom: 0;
 }
 
 nav ul li a {
