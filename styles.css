@@ -52,7 +52,7 @@ nav ul {
  list-style: none;
  padding: 0;
  border: 1px solid green;
- margin-left: 30px;
+ margin-left: 35px;
 }
 
 nav ul li {
@@ -60,9 +60,9 @@ nav ul li {
  padding: 5px;
 }
 
-nav ul li:last-child {
+/* nav ul li:last-child {
  border-bottom: 0;
-}
+} */
 
 nav ul li a {
  font-weight: bold;
