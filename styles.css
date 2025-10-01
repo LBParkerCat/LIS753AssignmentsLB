@@ -58,7 +58,7 @@ nav ul {
 }
 
 nav ul li {
- border-bottom: 1px solid green; /*I like how this looks so keeping it*/
+ /*border-bottom: 1px solid green; time to take this out*/
  padding: 5px;
 }
 
