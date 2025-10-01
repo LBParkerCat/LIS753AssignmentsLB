@@ -77,7 +77,7 @@ ul li a:hover {
  text-decoration: underline;
 }
 
-.screenreader-text {
+screenreader-text {
  position: absolute;
  left: -999px;
  width: 1px;
@@ -85,7 +85,7 @@ ul li a:hover {
  top: auto;
 }
 
-.screenreader-text:focus {
+screenreader-text:focus {
  color: black;
  display: inline-block;
  height: auto;
