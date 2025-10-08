@@ -48,6 +48,7 @@ p img {
  display: flex;
  justify-content: flex-start;
  gap: 60px;
+ font-weight: bold;
  background-color: lightyellow;
  list-style: none;
  padding: 0;
@@ -86,7 +87,7 @@ p img {
 }*/
 
 .menu-items .menu-items-opt a {
- font-weight: bold;
+ /*font-weight: bold;*/
  color: purple;
  text-decoration: none;
  font-family: Calibri;
@@ -139,9 +140,10 @@ footer nav ul li a:hover {
 footer#page-footer {
   padding: 32px 0;
   margin-top: 64px;
-  text-align: left;
-  background-color: yellow;
-  color: blue;
+  margin-left: 35px;
+  /*text-align: left;*/
+  /*background-color: yellow;*/
+  /*color: blue;*/
 }
 
 /*screenreader-text {
