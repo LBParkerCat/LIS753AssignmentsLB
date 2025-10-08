@@ -7,6 +7,20 @@ h1 {
  text-align: center;
  }
 
+h2 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+h3 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
 header p {
  background: white;
  font-size: 15px;
