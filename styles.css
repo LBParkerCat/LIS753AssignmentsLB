@@ -62,10 +62,6 @@ p img {
  padding: 5px;
 }
 
-.menu-items .menu-items-opt .home {
- background-color: green;
-}
-
 /*nav ul {
  width: 900px;
  display: flex;
@@ -94,6 +90,10 @@ p img {
  color: purple;
  text-decoration: none;
  font-family: Calibri;
+}
+
+.menu-items .menu-items-opt .home a {
+ background-color: green;
 }
 
 .menu-items .menu-items-opt a:hover {
