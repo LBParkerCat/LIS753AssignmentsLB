@@ -43,7 +43,7 @@ p img {
   padding: 5px;
 }
 
-nav ul {
+.menu-items {
  width: 900px;
  display: flex;
  justify-content: flex-start;
@@ -57,25 +57,55 @@ nav ul {
  margin-left: 35px;
 }
 
-nav ul li {
+.menu-items .menu-items-opt {
  /*border-bottom: 1px solid green; time to take this out*/
  padding: 5px;
 }
+
+/*nav ul {
+ width: 900px;
+ display: flex;
+ justify-content: flex-start;
+ gap: 60px;
+ background-color: lightyellow;
+ list-style: none;
+ padding: 0;
+ /*border: 1px solid green;*/
+ border-top: 1px solid green;
+ border-bottom: 1px solid green;
+ margin-left: 35px;
+}*/
+
+/*nav ul li {
+ border-bottom: 1px solid green; time to take this out
+ padding: 5px;
+}*/
 
 /*nav ul li:last-child {
  border-bottom: 0;
 }*/
 
-nav ul li a {
+.menu-items .menu-items-opt a {
  font-weight: bold;
  color: purple;
  text-decoration: none;
  font-family: Calibri;
 }
 
-ul li a:hover {
+.menu-items .menu-items-opt a:hover {
  text-decoration: underline;
 }
+
+/*nav ul li a {
+ font-weight: bold;
+ color: purple;
+ text-decoration: none;
+ font-family: Calibri;
+}*/
+
+/*ul li a:hover {
+ text-decoration: underline;
+}*/
 
 footer nav {
 
