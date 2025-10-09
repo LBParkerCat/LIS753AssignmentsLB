@@ -7,10 +7,10 @@
  text-align: center;
  }
 
-/*figure.main-lion {
- background: lightyellow;
+figure.main-lion {
+ background: blue;
  border: solidblack;
-}*/
+}
 
 /*article header*/ h1#LBarticle-title {
  font-family: Calibri;
