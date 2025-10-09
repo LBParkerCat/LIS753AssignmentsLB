@@ -1,4 +1,4 @@
-/*header*/h1#LBsite-title {
+/*page header*/ h1#LBsite-title {
  color: darkgreen;
  font-family: Calibri;
  font-size: 60px;
@@ -7,7 +7,7 @@
  text-align: center;
  }
 
-h1 {
+/*article header*/ h1#LBarticle-title {
  font-family: Calibri;
  font-size: 35px;
  font-style: italic;
