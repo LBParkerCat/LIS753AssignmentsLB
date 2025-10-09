@@ -7,6 +7,11 @@
  text-align: center;
  }
 
+/*figure.main-lion {
+ background: lightyellow;
+ border: solidblack;
+}*/
+
 /*article header*/ h1#LBarticle-title {
  font-family: Calibri;
  font-size: 35px;
