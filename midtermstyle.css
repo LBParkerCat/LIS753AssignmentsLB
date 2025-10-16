@@ -8,8 +8,8 @@
  }
 
 figure.header-catandbooks {
- width: 100px;
- height: 100px;
+ width: auto;
+ height: auto;
  border: 3px solid black;
  padding: 10px;
 }
