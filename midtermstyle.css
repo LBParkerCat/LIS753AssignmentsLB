@@ -1,0 +1,129 @@
+/*page header*/ h1#midtermsite-title {
+ color: darkgreen;
+ font-family: Calibri;
+ font-size: 60px;
+ font-style: italic;
+ width: 75%;
+ text-align: center;
+ }
+
+figure.header-lion {
+ width: auto;
+ height: auto;
+ border: 3px solid black;
+ padding: 10px;
+}
+
+/*article header*/ h1#LBarticle-title {
+ font-family: Calibri;
+ font-size: 35px;
+ font-style: italic;
+ width: 75%;
+ text-align: center;
+ }
+
+h2 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+h3 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+header p {
+ background: white;
+ font-size: 15px;
+ text-align: right;
+}
+
+p {
+  font-family: Calibri;
+  font-size: 20px;
+  width: 75%;
+  background: lightyellow;
+  margin-top: 20px;
+}
+
+p img {
+  float: right;
+  max-width: 30%;
+  height: auto;
+  margin-left: 30px;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+.menu-items {
+ width: 900px;
+ display: flex;
+ justify-content: flex-start;
+ gap: 60px;
+ font-weight: bold;
+ background-color: lightyellow;
+ list-style: none;
+ padding: 0;
+ /*border: 1px solid green;*/
+ border-top: 1px solid green;
+ border-bottom: 1px solid green;
+ margin-left: 35px;
+}
+
+.menu-items .menu-items-opt {
+ /*border-bottom: 1px solid green; time to take this out*/
+ padding: 5px;
+}
+
+.menu-items .menu-items-opt a {
+ /*font-weight: bold;*/
+ color: purple;
+ text-decoration: none;
+ font-family: Calibri;
+}
+
+.menu-items .menu-items-opt .home a {
+ background-color: green;
+}
+
+.menu-items .menu-items-opt a:hover {
+ text-decoration: underline;
+}
+
+footer nav ul {
+ width: 900px;
+ display: flex;
+ justify-content: flex-start;
+ gap: 60px;
+ background-color: lightyellow;
+ list-style: none;
+ padding: 0;
+ /*border: 1px solid green;*/
+ border-top: 1px solid green;
+ border-bottom: 1px solid green;
+ margin-left: 35px;
+}
+
+footer nav ul li a {
+  font-weight: bold;
+  color: purple;
+  text-decoration: none;
+  font-family: Calibri;
+}
+
+footer nav ul li a:hover {
+  text-decoration: underline;
+}
+
+footer#page-footer {
+  padding: 32px 0;
+  margin-top: 64px;
+  margin-left: 35px;
+  /*text-align: left;*/
+  /*background-color: yellow;*/
+  /*color: blue;*/
+}
