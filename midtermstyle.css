@@ -52,8 +52,11 @@ h5 {
  }
 
 header p {
- background: white;
- font-size: 15px;
+ font-family: Calibri;
+ font-size: 20px;
+ width: 75%;
+ background: lightyellow;
+ margin-top: 20px;
  text-align: right;
 }
 
