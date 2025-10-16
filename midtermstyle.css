@@ -7,14 +7,15 @@
  text-align: center;
  }
 
+/*main image of cat lying on books*/
 figure.header-catandbooks img {
- max-width: 50%;
- height: auto;
+ max-width: 75%;
+ height: 100px;
  border: 3px solid black;
- padding: 10px;
+ padding: 5px;
 }
 
-/* need class or id to make headings the same with less code*/ h1 {
+/*need class or id to make headings the same with less code*/ h1 {
  font-family: Calibri;
  font-size: 25px;
  font-style: italic;
