@@ -7,10 +7,15 @@
  text-align: center;
  }
 
-/*main image of cat lying on books*/
 figure.header-catandbooks img {
- max-width: 75%;
+ /*max-width: 75%;
  height: 100px;
+ border: 3px solid black;
+ padding: 5px;*/
+ float: right;
+ max-width: 30%;
+ height: auto;
+ margin-left: 30px;
  border: 3px solid black;
  padding: 5px;
 }
