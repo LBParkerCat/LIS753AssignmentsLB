@@ -90,12 +90,12 @@ p img {
 }
 
 .menu-items {
- width: 1500px;
+ width: 1200px;
  display: flex;
  justify-content: flex-start;
  gap: 60px;
  font-weight: bold;
- background-color: yellow;
+ background-color: #fff000;
  list-style: none;
  padding: 0;
  border-top: 2px solid blue;
