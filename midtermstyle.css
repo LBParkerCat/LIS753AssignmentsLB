@@ -16,12 +16,12 @@ h2#midtermsite-subtitle {
  font-style: italic;
  width: 75%;
  text-align: center;
- margin-bottom: 5px;
+ margin-bottom: 7px;
  }
 
 figure.header-catandbooks img {
  /*float: left;*/
- max-width: 35%;
+ max-width: 75%; /*35% and float left is better*/
  height: auto;
  margin-left: 0px;
  /*margin-right: 35px;*/
