@@ -90,7 +90,7 @@ p img {
 }
 
 .menu-items {
- width: 1200px;
+ width: 1100px;
  display: flex;
  justify-content: flex-start;
  gap: 60px;
@@ -128,13 +128,13 @@ footer nav ul {
  display: flex;
  justify-content: flex-start;
  gap: 60px;
- background-color: yellow;
+ background-color: #fff000;
  list-style: none;
  padding: 0;
  border-top: 2px solid blue;
  border-bottom: 2px solid blue;
  margin-left: 35px;
- margin-top: 50px;
+ margin-top: 0px; /*this was 50*/
 }
 
 footer nav ul li a {
