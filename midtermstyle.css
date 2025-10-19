@@ -11,7 +11,7 @@ h1#midtermsite-title {
 
 h2#midtermsite-subtitle {
  color: green;
- font-family: Kristen ITC;
+ font-family: Kristen ITC; /*this font mimics their fun logo*/
  font-size: 25px;
  font-style: italic;
  width: 75%;
@@ -30,7 +30,7 @@ figure.header-catandbooks img {
  padding: 5px;
 }
 
-/*need class or id to make headings the same with less code...refactoring if time*/ h1 {
+/*need class or id to make headings the same with less code...refactor if time*/ h1 {
  font-family: Calibri;
  font-size: 25px;
  font-style: italic;
@@ -59,6 +59,13 @@ h4 {
  }
 
 h5 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+h6 {
  font-family: Calibri;
  font-size: 25px;
  font-style: italic;
