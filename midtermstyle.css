@@ -30,7 +30,7 @@ figure.header-catandbooks img {
  padding: 5px;
 }
 
-/*need class or id to make headings the same with less code*/ h1 {
+/*need class or id to make headings the same with less code...refactoring if time*/ h1 {
  font-family: Calibri;
  font-size: 25px;
  font-style: italic;
@@ -67,7 +67,7 @@ h5 {
 
 header p {
  font-family: Calibri;
- font-size: 25px;
+ font-size: 23px;
  width: 75%;
  /*background: lightyellow;*/
  margin-top: 35px;
@@ -88,6 +88,7 @@ p img {
   max-width: 25%;
   height: auto;
   margin-left: 35px;
+  margin-bottom: 35px;
   border: 3px solid black;
   padding: 5px;
 }
