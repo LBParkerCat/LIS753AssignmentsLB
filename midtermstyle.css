@@ -100,8 +100,7 @@ p {
   margin-top: 15px;
 }
 
-/*p img {*/
-figure.body-browncatandbooks img {
+p img {
   float: right;
   max-width: 25%;
   height: auto;
@@ -110,9 +109,6 @@ figure.body-browncatandbooks img {
   /*border: 3px solid black; design choice to remove*/
   padding: 5px;
 }
-
-/*figure.body-salesmap img {
-}*/
 
 /*styling for the top menu elements*/
 .menu-items {
