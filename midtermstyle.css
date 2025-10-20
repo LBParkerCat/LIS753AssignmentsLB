@@ -20,6 +20,7 @@ h2#midtermsite-subtitle {
  }
 
 figure.header-catandbooks img {
+ display: table;
  float: left;
  max-width: 25%;
  height: auto;
@@ -30,8 +31,10 @@ figure.header-catandbooks img {
  padding: 5px;
 }
 
-figure.header-catandbooks p {
- float: left;
+figure.header-catandbooks figcaption {
+ display: table-caption;
+ caption-side: top;
+ /*float: left;*/
  font-style: italic;
  padding: 2px;
 }
