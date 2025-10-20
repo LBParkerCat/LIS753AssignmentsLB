@@ -23,6 +23,9 @@ figure.header-catandbooks img {
  float: left;
  max-width: 25%;
  height: auto;
+ font-style: italic;
+ padding: 2px;
+ text-align: left;
  margin-left: 0px; /*35%*/
  margin-right: 35px;
  margin-bottom: 35px;
@@ -30,11 +33,11 @@ figure.header-catandbooks img {
  padding: 5px;
 }
 
-figure.header-catandbooks figcaption {
+/*figure.header-catandbooks figcaption {
  font-style: italic;
  padding: 2px;
  text-align: left;
-}
+}*/
 
 /*need class or id to make headings the same with less code?...refactor if time*/ 
 h1 {
