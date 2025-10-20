@@ -168,3 +168,8 @@ footer#page-footer {
   /*background-color: yellow;*/
   /*color: blue;*/
 }
+
+footer p {
+ font-family: Calibri;
+ font-size: 10px;
+}
