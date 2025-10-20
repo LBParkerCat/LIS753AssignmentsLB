@@ -30,7 +30,7 @@ figure.header-catandbooks img {
  padding: 5px;
 }
 
-figure.header-catandbooks figcaption {
+figure.header-catandbooks p {
  float: left;
  font-style: italic;
  padding: 2px;
