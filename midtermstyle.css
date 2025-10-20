@@ -30,7 +30,8 @@ figure.header-catandbooks img {
  padding: 5px;
 }
 
-/*need class or id to make headings the same with less code...refactor if time*/ h1 {
+/*need class or id to make headings the same with less code?...refactor if time*/ 
+h1 {
  font-family: Calibri;
  font-size: 25px;
  font-style: italic;
@@ -100,6 +101,7 @@ p img {
   padding: 5px;
 }
 
+/*styling for the top menu elements*/
 .menu-items {
  width: 1100px;
  display: flex;
@@ -171,5 +173,6 @@ footer#page-footer {
 
 footer p {
  font-family: Calibri;
- font-size: 10px;
+ font-size: 15px;
+ margin-left: 35px;
 }
