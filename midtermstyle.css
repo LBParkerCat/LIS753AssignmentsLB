@@ -34,7 +34,7 @@ figure.header-catandbooks img {
 figure.header-catandbooks figcaption {
  display: table-caption;
  caption-side: top;
- /*float: left;*/
+ float: left;
  font-style: italic;
  padding: 2px;
 }
