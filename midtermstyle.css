@@ -19,8 +19,8 @@ h2#midtermsite-subtitle {
  margin-bottom: 7px;
  }
 
-figure.header-catandbooks img {
- display: table;
+figure#header-catandbooks img {
+ /*display: table;*/
  float: left;
  max-width: 25%;
  height: auto;
@@ -31,9 +31,9 @@ figure.header-catandbooks img {
  padding: 5px;
 }
 
-figure.header-catandbooks figcaption {
- display: table-caption;
- caption-side: top;
+figure#header-catandbooks figcaption {
+ /*display: table-caption;
+ caption-side: top;*/
  float: left;
  font-style: italic;
  padding: 2px;
