@@ -118,13 +118,13 @@ p img {
  border-bottom: 0;
 }*/
 
-.menu-items .menu-items-opt a {
+nav .menu-items a { /*.menu-items .menu-items-opt a {*/
  color: purple;
  text-decoration: none;
  font-family: Calibri;
 }
 
-.menu-items-opt a:hover {
+nav .menu-items a:hover { /*.menu-items-opt a:hover {*/
  text-decoration: underline;
 }
 
