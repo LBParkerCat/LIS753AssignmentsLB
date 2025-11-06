@@ -103,7 +103,6 @@ p img {
  background-color: lightyellow;
  list-style: none;
  padding: 0;
- /*border: 1px solid green;*/
  border-top: 1px solid green;
  border-bottom: 1px solid green;
  margin-left: 35px;
@@ -118,15 +117,15 @@ p img {
  border-bottom: 0;
 }*/
 
-.menu-items a { 
+.menu-items .menu-items-opt a { 
  color: purple;
  text-decoration: none;
  font-family: Calibri;
 }
 
-/*.menu-items a:hover {
+.menu-items .menu-items-opt a:hover {
  text-decoration: underline;
-} something is not working here*/
+}
 
 .menu-items-opt .home a {
  background-color: green;
