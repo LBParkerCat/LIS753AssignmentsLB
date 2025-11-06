@@ -73,13 +73,15 @@ p {
   margin-top: 20px;
 }
 
-p img {
+@media all and (min-width: 768px) {
+ p img {
   float: right;
   max-width: 30%;
   height: auto;
   margin-left: 30px;
   border: 3px solid black;
   padding: 5px;
+ }
 }
 
 @media all and (min-width: 376px) {
