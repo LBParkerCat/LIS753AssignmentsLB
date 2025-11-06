@@ -118,8 +118,11 @@ p img {
  border-bottom: 0;
 }*/
 
+.menu-items .menu-items-opt a:hover {
+ text-decoration: underline;
+}
+
 .menu-items .menu-items-opt a {
- /*font-weight: bold;*/
  color: purple;
  text-decoration: none;
  font-family: Calibri;
@@ -127,10 +130,6 @@ p img {
 
 .menu-items .menu-items-opt .home a {
  background-color: green;
-}
-
-.menu-items .menu-items-opt a:hover {
- text-decoration: underline;
 }
 
 /*nav ul li a {
