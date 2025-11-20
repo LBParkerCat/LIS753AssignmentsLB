@@ -19,6 +19,17 @@ h2#midtermsite-subtitle {
  margin-bottom: 7px;
  }
 
+img {
+  float: right;
+  max-width: 25%;
+  height: auto;
+  margin-left: 35px;
+  margin-top: 50px;
+  margin-bottom: 35px;
+  /*border: 3px solid black; design choice to remove*/
+  padding: 5px;
+}
+
 figure.header-catandbooks img {
  float: right;
  max-width: 35%;
@@ -90,17 +101,6 @@ p {
   width: 75%;
   /*background: lightyellow;*/
   margin-top: 15px;
-}
-
-p img {
-  float: right;
-  max-width: 25%;
-  height: auto;
-  margin-left: 35px;
-  margin-top: 50px;
-  margin-bottom: 35px;
-  /*border: 3px solid black; design choice to remove*/
-  padding: 5px;
 }
 
 /*styling for the top menu elements*/
