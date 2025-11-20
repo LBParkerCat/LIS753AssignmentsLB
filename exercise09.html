@@ -8,6 +8,11 @@
 	<body>
 		<a id="skip-nav" class="screenreader-text" href="#main-content">Skip to Content</a>
 		<button onclick="darkMode()">Toggle dark mode &#128008;&#8205;&#11035;</button>
+		<script>
+			function darkMode() {
+  				document.body.classList.toggle('dark-mode');
+			}
+		</script>
 		<div id="welcMessage">Welcome to our Book Sale! <button onclick="document.getElementById('welcMessage').style.display='none';">Dismiss &#129668;</button></div>
 		<main id="main-content">
     		<article>
