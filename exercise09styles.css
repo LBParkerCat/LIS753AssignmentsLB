@@ -193,3 +193,24 @@ screenreader-text:focus {
  position: static;
  margin: auto;
 }
+
+#welcMessage {
+  font-family: Calibri;
+  color: red;
+  background: lightyellow;
+  border: 3px solid darkgreen;
+  text-align: center;
+  padding: 20px 20px;
+  margin: 10px 0;
+  border-radius: 4px;
+  width: 25%;
+}
+
+#welcMessage button {
+  float: right;
+}
+
+body.dark-mode {
+  background: black;
+  color: white;
+}
