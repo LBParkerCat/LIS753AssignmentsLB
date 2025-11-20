@@ -19,7 +19,7 @@ h2#midtermsite-subtitle {
  margin-bottom: 7px;
  }
 
-img {
+figure.main-catandbooks img {
   float: right;
   max-width: 25%;
   height: auto;
